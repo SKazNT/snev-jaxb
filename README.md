@@ -1,5 +1,5 @@
-# ocpp-jaxb
-Java data model mappings for the following [OCPP](https://www.openchargealliance.org/protocols/) versions:
+# snev-jaxb
+This code is based on ocpp-jaxb, Java data model mappings for the following [OCPP](https://www.openchargealliance.org/protocols/) versions:
 * OCPP 1.2 (targets JSON and SOAP)
 * OCPP 1.5 (targets JSON and SOAP)
 * OCPP 1.6 (targets JSON and SOAP)
